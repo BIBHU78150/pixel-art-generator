@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Art Generator",
+  "description": "Generate unique pixel art images from text prompts using Google's Imagen model. Type a description and see it transformed into pixel art!",
+  "requestFramePermissions": []
+}
